@@ -1,5 +1,5 @@
 {
-    "name": "qckanemoto/twigged-swiftmessage-service-provider",
+    "name": "sinasalek/twigged-swiftmessage-service-provider",
     "description": "Twig templated Swift_Message builder service provider for the Silex microframework.",
     "keywords": ["Silex", "Twig", "Swift_Message", "Swift_Mailer"],
     "homepage": "https://github.com/qckanemoto/TwiggedSwiftMessageServiceProvider",
