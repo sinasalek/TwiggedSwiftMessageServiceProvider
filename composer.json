@@ -15,7 +15,7 @@
     ],
     "require": {
         "php": ">=5.3.3",
-        "silex/silex": ">=1.0",
+        "silex/silex": "~2.0",
         "symfony/form": "~2.3",
         "symfony/security-csrf": "~2.4",
         "qckanemoto/twigged-swiftmessage-builder": "1.0.*@dev"
